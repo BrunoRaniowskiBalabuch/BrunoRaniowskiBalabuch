@@ -55,8 +55,8 @@ Gosto de desafios que me fazem crescer como desenvolvedor e estou sempre aberto 
 # 📫 Contato
 Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. 
 
-📩 Me envie um email: brunobalabuch@hotmail.com
+📩 Email: brunobalabuch@hotmail.com
 
-📌 Veja meu portfólio: seu-portfolio.com
+📌 Portfólio: seu-portfolio.com
 
-💼 Veja meu LinkedIn: www.linkedin.com/in/brunobalabuch/
+💼 LinkedIn: www.linkedin.com/in/brunobalabuch/
