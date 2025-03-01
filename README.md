@@ -14,7 +14,7 @@ Gosto de desafios que me fazem crescer como desenvolvedor e estou sempre aberto 
 
 # 🔧 Habilidades Tecnológicas
 
-<b>📄 Linguagens de Programação:</b>
+##📄 Linguagens de Programação:
 
 <div display="inline">
     <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
@@ -23,7 +23,7 @@ Gosto de desafios que me fazem crescer como desenvolvedor e estou sempre aberto 
 
 <br>
 
-<b>📚 Frameworks e Bibliotecas:</b>
+##📚 Frameworks e Bibliotecas:
 
 <div display="inline">
     <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
@@ -32,14 +32,14 @@ Gosto de desafios que me fazem crescer como desenvolvedor e estou sempre aberto 
 
 <br>
 
- <b>🛢️ Bancos de Dados:
+##🛢️ Bancos de Dados:
  
 <div display="inline">
     <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />  
 </div>
 
-<b>⚙️ Ferramentas:
+##⚙️ Ferramentas:
 
 <div display="inline">
     <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
@@ -48,7 +48,7 @@ Gosto de desafios que me fazem crescer como desenvolvedor e estou sempre aberto 
 </div>
           
 
-# 🔭 Projetos em andamento
+# 🔭 Projetos pessoais
 <!-- *Sistema de Cadastro de Usuários* | [Repositório](https://github.com/seu-usuario/sistema-cadastro)
 - Outros projetos legais..-->
 
